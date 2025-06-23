@@ -1,7 +1,9 @@
 NAMA KELOMPOK:
 - Dimas Setiawan
 - M. Araka Ridwan Akbar
-- Rimbiatho Aurindra
+- Rimbhiatho Aurindra
+
+ROUTE:
 
 ### CRUD Synchronous
 (Prefix: /pasien-sync)
